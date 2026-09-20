@@ -54,14 +54,14 @@ api_key = os.getenv("OPENAI_API_KEY")
 # STREAMLIT FUNCTION
 # Configure the page title, icon and layout.
 st.set_page_config(
-    page_title="Roshan AI Assistant",
+    page_title="Inju AI Assistant",
     page_icon="🤖",
     layout="centered"
 )
 
 # STREAMLIT FUNCTIONS
 # Display the application title and description.
-st.title("🤖 Roshan AI Assistant")
+st.title("🤖 Inju AI Assistant")
 
 st.write(
     "Welcome! I am your AI assistant. "
