@@ -65,7 +65,7 @@ st.title("🤖 Inju AI Assistant")
 
 st.write(
     "Welcome! I am your AI assistant. "
-    "Ask me questions and I will remember our conversation."
+    "Ask me questions."
 )
 
 
